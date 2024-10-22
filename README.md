@@ -10,8 +10,7 @@ The global issue of drunk driving accidents, coupled with inadequate proactive m
 
 - Create an efficient anti-drunk driving system capable of classifying drunk drivers
 - Identify a drunk driver by detecting high alcohol PPM and occurence of bloodshot eyes
-- Incorporate a cloud database for remote and wireless transmission of data
-- Integrate an image classification for detecting bloodshot eyes
+- Integrate an image classification model for detecting bloodshot eyes
 
 ## 🛠️ Tech Stack
 
@@ -20,13 +19,12 @@ The global issue of drunk driving accidents, coupled with inadequate proactive m
 - **Modules:** MICS-5524 Gas Sensor, SIM900A GSM, NEO-6M GPS
 - **Cloud Database:** Firebase RTDB
 - **Libraries:** Firebase ESP Client, DFRobot_MICS, TinyGPS++, TimeLib, SoftwareSerial
-- **Machine Learning Tool:** Edge Impulse
+- **Image Classification Modelling:** Edge Impulse
 - **Tools:** Arduino IDE
 
 ## ✨ Features
 
 - Real-time monitoring
-- Cloud database integration
 - Alcohol level monitoring
 - Image classification
 - SMS notification
