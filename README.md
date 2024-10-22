@@ -14,7 +14,7 @@ The global issue of drunk driving accidents, coupled with inadequate proactive m
 
 ## 🛠️ Tech Stack
 
-- **Microcontroller:** Arduino, ESP32-Cam
+- **Microcontroller:** Arduino, ESP32-Cam 
 - **Firmware:** Arduino
 - **Modules:** MICS-5524 Gas Sensor, SIM900A GSM, NEO-6M GPS
 - **Cloud Database:** Firebase RTDB
