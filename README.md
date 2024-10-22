@@ -1,7 +1,7 @@
 # Safedrive
 
 ![Safedrive](https://res.cloudinary.com/de86eimvq/image/upload/v1729612683/portfolio/Projects/safedrive/j505oscvfrmjukiqn6gm.png) 
-
+ 
 ## 📋 Overview
 
 The global issue of drunk driving accidents, coupled with inadequate proactive measures, highlights significant risks to public safety. The proposed solution, Safedrive, utilizes an IoT-based system incorporates hardware components such as Arduino Uno R3, ESP32-Cam, MICS-5524 Gas Sensor, SIM900A GSM, and NEO-6M GPS. Its main goal is to detect alcohol in car vehicles, provide real-time alerts, and precisely identify the location of intoxicated drivers. This projects aims to encourage responsible drinking, foster safe driving practices, and enhance overall road safety.
