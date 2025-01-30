@@ -12,7 +12,7 @@ The global issue of drunk driving accidents, coupled with inadequate proactive m
 - Identify a drunk driver by detecting high alcohol PPM and occurence of bloodshot eyes
 - Integrate an image classification model for detecting bloodshot eyes
 
-## 🛠Tech Stack
+## Tech Stack
 
 - **Microcontroller:** Arduino, ESP32-Cam 
 - **Firmware:** Arduino
@@ -40,7 +40,7 @@ Antonio Malabago
 - Website: [antoniomalabago.com](https://antoniomalabago.com)
 - LinkedIn: [linkedin.com/in/antonio-emmanuel-malabago](https://www.linkedin.com/in/antonio-emmanuel-malabago/)
 
-## Acknowledgments
+## Acknowledgements
 
 - [Makerlab Electronics Philippines](https://www.makerlab-electronics.com/)
 - Pamantasan ng Lungsod ng Maynila
